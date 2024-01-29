@@ -6,6 +6,6 @@
   "author": "Daniel Sporysz <dsporysz@box.com>",
   "license": "MIT",
   "dependencies": {
-    "tar": "2.2.2"
+    "tar": "6.2.0"
   }
 }
