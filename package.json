@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@git.dev.box.net:dsporysz/dependencies-test.git",
   "author": "Daniel Sporysz <dsporysz@box.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tar": "6.2.0"
+  }
 }
